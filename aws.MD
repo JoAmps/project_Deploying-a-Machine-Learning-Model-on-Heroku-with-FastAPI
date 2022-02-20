@@ -1,2 +1,0 @@
-access_key_id = AKIASIJF5GL4LXF7MUZM
-secret key = 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
